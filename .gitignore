@@ -9,6 +9,9 @@ venv/
 env/
 .python-version
 
+# Lock files
+uv.lock
+
 # Package artifacts
 build/
 dist/
